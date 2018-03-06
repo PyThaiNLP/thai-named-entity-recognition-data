@@ -25,4 +25,4 @@ Data for thai ner.
 
 มหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย
 
-[wannaphong@kkumailcom]()
+wannaphong@kkumail.com
