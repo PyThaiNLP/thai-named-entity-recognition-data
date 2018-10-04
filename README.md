@@ -1,6 +1,6 @@
 # thai-named-entity-recognition-data
 
-ย้ายไปที่ ttps://github.com/wannaphongcom/thai-ner
+ย้ายไปที่ https://github.com/wannaphongcom/thai-ner
 
 Data for thai ner.
 
