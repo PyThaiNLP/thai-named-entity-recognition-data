@@ -1,4 +1,7 @@
 # thai-named-entity-recognition-data
+
+ย้ายไปที่ ttps://github.com/wannaphongcom/thai-ner
+
 Data for thai ner.
 
 นี้เป็น GitHub สำหรับสร้างข้อมูลสำหรับใช้ Train NER ภาษาไทย
